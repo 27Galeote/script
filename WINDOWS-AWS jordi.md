@@ -4,4 +4,5 @@ aws ec2 run-instances --image-id "ami-05f283f34603d6aed" --instance-type "t2.mic
 ![image](https://github.com/user-attachments/assets/479d6705-8fdb-4bd3-9e14-525a61a2b0b7)
 
 ![image](https://github.com/user-attachments/assets/c01f4e03-d7bc-43e2-ae11-16da99ee2e4e)
-![image](https://github.com/user-attachments/assets/dc14c819-168d-4e14-89ee-f658bd9e8842)
+![image](https://github.com/user-attachments/assets/dc14c819-168d-4e14-89ee-f658bd9e8842) 
+#
